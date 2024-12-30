@@ -15,7 +15,7 @@
     </p> 
 </p>
 
-### [中文文档](./README_ZH_CN.md)
+
 
 # What this?
 > With the rapid development of spring boot, the deployment of a service is now simpler and easier, especially the rise of microservices, docker containerization. Make the spring boot jar advantage more and more only need to use `java -jar xxx.jar` to start.
